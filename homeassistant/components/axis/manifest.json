@@ -16,6 +16,10 @@
     {
       "hostname": "axis-b8a44f*",
       "macaddress": "B8A44F*"
+    },
+    {
+      "hostname": "2NIPForce-*",
+      "macaddress": "*"
     }
   ],
   "ssdp": [
